@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Shakeel-Khuhro/static/css/main.dea871cb.css",
-    "main.js": "/Shakeel-Khuhro/static/js/main.dbc31c3f.js",
+    "main.css": "/Shakeel-Khuhro/static/css/main.1e7128c3.css",
+    "main.js": "/Shakeel-Khuhro/static/js/main.59d2cdc4.js",
     "static/media/3.JPG": "/Shakeel-Khuhro/static/media/3.1a9fadb15a24607aff62.JPG",
     "static/media/4.JPG": "/Shakeel-Khuhro/static/media/4.c363ae0095b49f32f5f5.JPG",
     "static/media/2.JPG": "/Shakeel-Khuhro/static/media/2.1dac1ee2a126743e00f0.JPG",
@@ -20,11 +20,11 @@
     "static/media/me-2.jpg": "/Shakeel-Khuhro/static/media/me-2.a6df392922af3c93a594.jpg",
     "static/media/logo.png": "/Shakeel-Khuhro/static/media/logo.18934fb3b97854bd0ef6.png",
     "index.html": "/Shakeel-Khuhro/index.html",
-    "main.dea871cb.css.map": "/Shakeel-Khuhro/static/css/main.dea871cb.css.map",
-    "main.dbc31c3f.js.map": "/Shakeel-Khuhro/static/js/main.dbc31c3f.js.map"
+    "main.1e7128c3.css.map": "/Shakeel-Khuhro/static/css/main.1e7128c3.css.map",
+    "main.59d2cdc4.js.map": "/Shakeel-Khuhro/static/js/main.59d2cdc4.js.map"
   },
   "entrypoints": [
-    "static/css/main.dea871cb.css",
-    "static/js/main.dbc31c3f.js"
+    "static/css/main.1e7128c3.css",
+    "static/js/main.59d2cdc4.js"
   ]
 }
