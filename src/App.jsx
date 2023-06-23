@@ -9,7 +9,6 @@ import Testimonials from "./components/testimonials/Testimonials";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
 import Community from "./components/communityWork/CommunityWork";
-import Navbar from "./components/above nav/AboveNav";
 
 const App = () => {
   return (

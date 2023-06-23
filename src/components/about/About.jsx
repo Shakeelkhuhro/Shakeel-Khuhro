@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./about.css";
-import AboutImage from "../../assets/me-about.jpeg";
+import AboutImage from "../../assets/me-2.jpg";
 import TabTitles from "./TabTitles";
 
 const About = () => {
@@ -47,16 +47,16 @@ const About = () => {
                   <div className="skill-line">
                     <div
                       className="skill-progress"
-                      style={{ width: "80%" }}
+                      style={{ width: "85%" }}
                     ></div>
                   </div>
                 </li>
                 <li>
-                  <span  className="skills-span">ReactJS</span>
+                  <span className="skills-span">ReactJS</span>
                   <div className="skill-line">
                     <div
                       className="skill-progress"
-                      style={{ width: "90%" }}
+                      style={{ width: "80%" }}
                     ></div>
                   </div>
                 </li>
@@ -66,6 +66,24 @@ const About = () => {
                     <div
                       className="skill-progress"
                       style={{ width: "70%" }}
+                    ></div>
+                  </div>
+                </li>
+                <li>
+                  <span  className="skills-span">NodeJS</span>
+                  <div className="skill-line">
+                    <div
+                      className="skill-progress"
+                      style={{ width: "65%" }}
+                    ></div>
+                  </div>
+                </li>
+                <li>
+                  <span className="skills-span">Firebase</span>
+                  <div className="skill-line">
+                    <div
+                      className="skill-progress"
+                      style={{ width: "60%" }}
                     ></div>
                   </div>
                 </li>
@@ -82,15 +100,15 @@ const About = () => {
             <ul>
               <li>
                 <span>Dec-2022 - Current</span>
-                <br /> Front-End Developer at Ritlop
+                <br /> Front-End Developer at Paidlance
               </li>
               <li>
                 <span>Jan-2023 - Current </span>
-                <br /> Student Ambassador at Microsoft Learn
+                <br /> Beta Student Ambassador at Microsoft Learn
               </li>
               <li>
                 <span>Dec-2022 - Current</span>
-                <br /> Mentor For Front-End Development
+                <br /> Marketing Manager at MLSA MUET Khp
               </li>
             </ul>
           </div>

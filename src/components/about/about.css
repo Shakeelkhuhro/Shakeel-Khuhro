@@ -83,8 +83,9 @@
 }
 
 .tab-contents ul li span {
-    color: #b54769;
+    color: var(--color-primary);
     font-size: 14px;
+    font-weight: 500;
 }
 
 .skills-span{

@@ -1,0 +1,35 @@
+.photo-container {
+    width: 100%;
+    overflow-x: auto;
+  }
+  
+  .photo-scroll {
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 10px;
+  }
+  
+  .photo {
+    flex: 0 0 auto;
+    margin-right: 10px;
+    text-align: center;
+  }
+  
+  .photo img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  
+  .photo h3 {
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  
+  .photo p {
+    margin-top: 5px;
+    font-size: 14px;
+    color: #888;
+  }
+  
