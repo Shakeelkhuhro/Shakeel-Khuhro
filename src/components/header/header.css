@@ -38,8 +38,8 @@ header {
     background: var(--color-white);
 }
 
-.header-socials a{
-        color: var(--color-white);
+.header-socials a {
+    color: var(--color-white);
 }
 
 
@@ -80,13 +80,15 @@ header {
 
 
 /* /////////////// Media Querey | Small Devices //////////////// */
+
+
 @media screen and (max-width: 600px) {
     header {
         height: 100vh;
     }
 
     .header-socials {
-        display: flex;
+        display: none;
         flex-direction: row;
         bottom: 75%;
         left: 40%;
