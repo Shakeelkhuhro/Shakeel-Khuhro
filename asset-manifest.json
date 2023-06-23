@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/Shakeel-Khuhro-Portfolio/static/css/main.d4ded856.css",
-    "main.js": "/Shakeel-Khuhro-Portfolio/static/js/main.b3479e24.js",
-    "static/media/3.JPG": "/Shakeel-Khuhro-Portfolio/static/media/3.1a9fadb15a24607aff62.JPG",
-    "static/media/4.JPG": "/Shakeel-Khuhro-Portfolio/static/media/4.c363ae0095b49f32f5f5.JPG",
-    "static/media/cv.pdf": "/Shakeel-Khuhro-Portfolio/static/media/cv.1676dcdc83730930d888.pdf",
-    "static/media/2.JPG": "/Shakeel-Khuhro-Portfolio/static/media/2.1dac1ee2a126743e00f0.JPG",
-    "static/media/6.jpg": "/Shakeel-Khuhro-Portfolio/static/media/6.7316e13e6356be18e509.jpg",
-    "static/media/me.png": "/Shakeel-Khuhro-Portfolio/static/media/me.d45d78e6a582c0d54fea.png",
-    "static/media/portfolio5.png": "/Shakeel-Khuhro-Portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/5.jpg": "/Shakeel-Khuhro-Portfolio/static/media/5.886b7bc2da02ba427edc.jpg",
-    "static/media/portfolio2.jpg": "/Shakeel-Khuhro-Portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/Shakeel-Khuhro-Portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/1.jpg": "/Shakeel-Khuhro-Portfolio/static/media/1.25121e03bcfabc11d1b4.jpg",
-    "static/media/portfolio1.jpg": "/Shakeel-Khuhro-Portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/Shakeel-Khuhro-Portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/Shakeel-Khuhro-Portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "static/media/avatar1.jfif": "/Shakeel-Khuhro-Portfolio/static/media/avatar1.a4477ab662d332ca67ef.jfif",
-    "static/media/logo.png": "/Shakeel-Khuhro-Portfolio/static/media/logo.18934fb3b97854bd0ef6.png",
-    "static/media/me-about.jpeg": "/Shakeel-Khuhro-Portfolio/static/media/me-about.6048746703126bf2dac5.jpeg",
-    "index.html": "/Shakeel-Khuhro-Portfolio/index.html",
-    "main.d4ded856.css.map": "/Shakeel-Khuhro-Portfolio/static/css/main.d4ded856.css.map",
-    "main.b3479e24.js.map": "/Shakeel-Khuhro-Portfolio/static/js/main.b3479e24.js.map"
+    "main.css": "/Shakeel-Khuhro/static/css/main.d4ded856.css",
+    "main.js": "/Shakeel-Khuhro/static/js/main.dc9dd5e2.js",
+    "static/media/3.JPG": "/Shakeel-Khuhro/static/media/3.1a9fadb15a24607aff62.JPG",
+    "static/media/4.JPG": "/Shakeel-Khuhro/static/media/4.c363ae0095b49f32f5f5.JPG",
+    "static/media/cv.pdf": "/Shakeel-Khuhro/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/2.JPG": "/Shakeel-Khuhro/static/media/2.1dac1ee2a126743e00f0.JPG",
+    "static/media/6.jpg": "/Shakeel-Khuhro/static/media/6.7316e13e6356be18e509.jpg",
+    "static/media/me.png": "/Shakeel-Khuhro/static/media/me.d45d78e6a582c0d54fea.png",
+    "static/media/portfolio5.png": "/Shakeel-Khuhro/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/5.jpg": "/Shakeel-Khuhro/static/media/5.886b7bc2da02ba427edc.jpg",
+    "static/media/portfolio2.jpg": "/Shakeel-Khuhro/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/Shakeel-Khuhro/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/1.jpg": "/Shakeel-Khuhro/static/media/1.25121e03bcfabc11d1b4.jpg",
+    "static/media/portfolio1.jpg": "/Shakeel-Khuhro/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/Shakeel-Khuhro/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/Shakeel-Khuhro/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/avatar1.jfif": "/Shakeel-Khuhro/static/media/avatar1.a4477ab662d332ca67ef.jfif",
+    "static/media/logo.png": "/Shakeel-Khuhro/static/media/logo.18934fb3b97854bd0ef6.png",
+    "static/media/me-about.jpeg": "/Shakeel-Khuhro/static/media/me-about.6048746703126bf2dac5.jpeg",
+    "index.html": "/Shakeel-Khuhro/index.html",
+    "main.d4ded856.css.map": "/Shakeel-Khuhro/static/css/main.d4ded856.css.map",
+    "main.dc9dd5e2.js.map": "/Shakeel-Khuhro/static/js/main.dc9dd5e2.js.map"
   },
   "entrypoints": [
     "static/css/main.d4ded856.css",
-    "static/js/main.b3479e24.js"
+    "static/js/main.dc9dd5e2.js"
   ]
 }
