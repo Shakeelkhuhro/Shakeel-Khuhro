@@ -1,20 +1,24 @@
-.above-nav {
+.abovenav {
     display: flex;
+    justify-content: space-between;
     align-items: center;
-    padding: 10px;
-    background-color: red;
-  }
-  
-  .logo {
+    padding: 0px;
+    background-color: #302f2f;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+}
+
+.logo {
     margin-right: 10px;
-  }
-  
-  .logo img {
+}
+
+.logo img {
     height: 40px;
     width: 40px;
-  }
-  
-  .right-side {
+}
+
+.right-side {
     margin-left: auto;
-  }
-  
+}

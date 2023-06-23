@@ -14,8 +14,8 @@ import Navbar from "./components/above nav/AboveNav";
 const App = () => {
   return (
     <>
-      <Navbar />
       <Header />
+      <Nav />
       <About />
       {/* <Experience/> */}
       {/* <Services/> */}

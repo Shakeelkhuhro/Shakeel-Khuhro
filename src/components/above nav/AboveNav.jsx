@@ -1,10 +1,12 @@
 import React from 'react';
+import './aboveNav.css';
+import logo from '../../assets/logo.png'
 
 const Navbar = () => {
   return (
-    <div className='above-nav'>
+    <div className='abovenav'>
       <div className="logo">
-        <img src="/path/to/your/logo.png" alt="Logo" />
+        <img src={logo} alt="Logo" />
       </div>
       <div className="right-side">
         <span>Shakeel Khuhro</span>
