@@ -1,0 +1,156 @@
+
+
+#about {
+    padding: 0;
+    margin: 0;
+}
+
+
+.about-container {
+    display: grid;
+    grid-template-columns: 35% 50%;
+    gap: 15%;
+}
+
+.about-me {
+    width: 100%;
+    aspect-ratio: 1/1;
+    border-radius: 2rem;
+    background: linear-gradient(45deg,
+            transparent,
+            var(--color-bg-varaint),
+            transparent);
+    display: grid;
+    place-items: center;
+}
+
+.about-me-img {
+    width: 97.5%;
+    border-radius: 2rem;
+    overflow: hidden;
+    transform: rotate(10deg);
+    transition: var(--transition);
+}
+
+
+.about-me-img:hover {
+    transform: rotate(0);
+}
+
+.about-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    width: 100%;
+    padding: 50px;
+    padding-top: 0;
+}
+
+
+.tab-titles {
+    display: flex;
+    margin: 20px 0 40px;
+}
+
+.tab-links {
+    margin-right: 50px;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+    position: relative;
+}
+
+.tab-links::after {
+    content: "";
+    width: 0;
+    height: 3px;
+    background: #ff004f;
+    position: absolute;
+    left: 0;
+    bottom: -8px;
+    transition: 0.5s;
+}
+
+.tab-links.active-link::after {
+    width: 50%;
+}
+
+
+.tab-contents ul li {
+    list-style-type: none;
+    margin: 10px 0;
+}
+
+.tab-contents ul li span {
+    color: #b54769;
+    font-size: 14px;
+}
+
+.skills-span{
+    color: #fff !important;
+    font-size: 14px;
+}
+.tab-contents {
+    display: none;
+}
+
+.tab-contents.active-tab {
+    display: block;
+}
+
+#skills {
+    display: flex;
+    flex-direction: column;
+}
+
+/* // skill percentage */
+.skill-line {
+    width: 62%;
+    background-color: #ede4e79e;
+    height: 10px;
+    margin-top: 5px;
+    border-radius: 12px;
+}
+
+.skill-progress {
+    height: 100%;
+    background-color: #ff004f;
+    border-radius: 12px;
+}
+
+
+
+.btn {
+    margin-top: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    #about{
+        margin-top: 6rem !important;
+    }
+    .tab-links {
+        font-size: 16px;
+        margin-right: 20px;
+    }
+
+    .about-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .about-content {
+        margin-top: 2.5rem;
+    }
+
+    .about-text {
+        padding: 25px;
+        padding-top: 0;
+        margin-bottom: 35px;
+    }
+
+    .skill-line {
+        width: 75%;
+    }
+
+}

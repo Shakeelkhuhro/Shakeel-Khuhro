@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Fira+Sans&family=Montserrat&family=Poppins:wght@300;400;500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+/* // varibales */
+:root {
+    /* // color variables */
+    --color-bg: #080808eb;
+    --color-bg-varaint: #262626;
+    --color-primary: #ff0051d5;
+    --color-primary-varaint: #080808eb;
+    --color-white: #fff;
+    --color-light: rgba(255, 255, 255, 0.6);
+
+    /* // transition variables */
+    --transition: all 400sm ease;
+
+    /* // container varibales */
+    --container-width-lg: 75%;
+    --container-with-md: 86%;
+    --container-with-sm: 90%;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+/* // remove default scroll bar */
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: var(--color-bg);
+    color: var(--color-white);
+    line-height: 1.7;
+    /* background-image:
+        url(../src/assets/bg-texture.png); */
+}
+
+/* ////////////// General Styles /////////// */
+.container {
+    width: var(--container-width-lg);
+    margin: 0 auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 500;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+section {
+    margin-top: 15rem !important;
+    /* height: 100vh; */
+}
+
+section>h2,
+section>h5 {
+    text-align: center;
+    color: var(--color-light);
+}
+
+section>h2 {
+    color: var(--color-primary);
+    margin-top: 3rem;
+}
+
+.text-light {
+    color: var(--color-light);
+}
+
+a {
+    color: var(--color-primary);
+    transition: var(--transition);
+}
+
+a:hover {
+    color: var(--color-white);
+}
+
+.btn {
+    width: max-content;
+    display: inline-block;
+    color: #fff;
+    padding: 0.75rem 1.2rem;
+    border-radius: 0.4rem;
+    cursor: pointer;
+    border: 1px solid #fff;
+    transition: var(--transition);
+}
+
+.btn:hover {
+    background: var(--color-white);
+    color: var(--color-bg);
+    border-color: transparent;
+}
+
+.btn-primary {
+    background: var(--color-primary);
+    color: var(--color-white);
+    border: 1px solid #000;
+}
+
+img {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+}
+
+/* /////////////// Media Queries | Meduim Devices /////////// */
+@media screen and (max-width:1024px) {
+    .container{
+        width: var(--container-with-md);
+    }
+
+    section{
+        margin-top: 6rem;
+    }
+}
+
+
+/* /////////////// Media Queries | Small Devices /////////// */
+@media screen and (max-width:600px) {
+    .container{
+        width: var(--container-with-sm);
+    }
+    section{
+            margin-top: 5rem !important;
+    }
+
+    section>h2{
+        margin-bottom: 2rem;
+    }
+}
