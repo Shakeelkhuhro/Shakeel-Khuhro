@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Shakeel-Khuhro/static/css/main.dea871cb.css",
-    "main.js": "/Shakeel-Khuhro/static/js/main.0b9271be.js",
+    "main.js": "/Shakeel-Khuhro/static/js/main.dbc31c3f.js",
     "static/media/3.JPG": "/Shakeel-Khuhro/static/media/3.1a9fadb15a24607aff62.JPG",
     "static/media/4.JPG": "/Shakeel-Khuhro/static/media/4.c363ae0095b49f32f5f5.JPG",
-    "static/media/cv.pdf": "/Shakeel-Khuhro/static/media/cv.1676dcdc83730930d888.pdf",
     "static/media/2.JPG": "/Shakeel-Khuhro/static/media/2.1dac1ee2a126743e00f0.JPG",
     "static/media/portfolio2.PNG": "/Shakeel-Khuhro/static/media/portfolio2.97847e11ee3a2d59a139.PNG",
     "static/media/portfolio5.PNG": "/Shakeel-Khuhro/static/media/portfolio5.c84d94dbc9ec8a0470bf.PNG",
     "static/media/6.jpg": "/Shakeel-Khuhro/static/media/6.7316e13e6356be18e509.jpg",
     "static/media/me.png": "/Shakeel-Khuhro/static/media/me.d45d78e6a582c0d54fea.png",
     "static/media/5.jpg": "/Shakeel-Khuhro/static/media/5.886b7bc2da02ba427edc.jpg",
+    "static/media/Resume.pdf": "/Shakeel-Khuhro/static/media/Resume.88ce89caa40c9dbe2a3a.pdf",
     "static/media/portfolio1.PNG": "/Shakeel-Khuhro/static/media/portfolio1.59d041a0b5dc46316bfc.PNG",
     "static/media/1.jpg": "/Shakeel-Khuhro/static/media/1.25121e03bcfabc11d1b4.jpg",
     "static/media/portfolio6.PNG": "/Shakeel-Khuhro/static/media/portfolio6.7f4cde701e1595e6122b.PNG",
@@ -21,10 +21,10 @@
     "static/media/logo.png": "/Shakeel-Khuhro/static/media/logo.18934fb3b97854bd0ef6.png",
     "index.html": "/Shakeel-Khuhro/index.html",
     "main.dea871cb.css.map": "/Shakeel-Khuhro/static/css/main.dea871cb.css.map",
-    "main.0b9271be.js.map": "/Shakeel-Khuhro/static/js/main.0b9271be.js.map"
+    "main.dbc31c3f.js.map": "/Shakeel-Khuhro/static/js/main.dbc31c3f.js.map"
   },
   "entrypoints": [
     "static/css/main.dea871cb.css",
-    "static/js/main.0b9271be.js"
+    "static/js/main.dbc31c3f.js"
   ]
 }
