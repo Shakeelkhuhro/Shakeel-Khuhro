@@ -13,8 +13,9 @@ import Community from "./components/communityWork/CommunityWork";
 const App = () => {
   return (
     <>
-      <Header />
+      {/* <Header /> */}
       <Nav />
+      <About />
       <About />
       {/* <Experience/> */}
       {/* <Services/> */}

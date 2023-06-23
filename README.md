@@ -41,7 +41,7 @@ The website includes the following components:
 To set up the portfolio website locally, please follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/Shakeelkhuhro/Shakeel-Khuhro-Portfolio.git
+   git clone https://github.com/Shakeelkhuhro/Shakeel-Khuhro.git
 
 ## Installation
 
