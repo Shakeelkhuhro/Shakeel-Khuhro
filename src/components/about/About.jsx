@@ -61,6 +61,15 @@ const About = () => {
                   </div>
                 </li>
                 <li>
+                  <span className="skills-span">TypeScript</span>
+                  <div className="skill-line">
+                    <div
+                      className="skill-progress"
+                      style={{ width: "70%" }}
+                    ></div>
+                  </div>
+                </li>
+                <li>
                   <span className="skills-span">NextJS</span>
                   <div className="skill-line">
                     <div
@@ -75,6 +84,15 @@ const About = () => {
                     <div
                       className="skill-progress"
                       style={{ width: "65%" }}
+                    ></div>
+                  </div>
+                </li>
+                <li>
+                  <span className="skills-span">Git</span>
+                  <div className="skill-line">
+                    <div
+                      className="skill-progress"
+                      style={{ width: "75%" }}
                     ></div>
                   </div>
                 </li>
