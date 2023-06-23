@@ -2,7 +2,7 @@ import React from 'react';
 
 const Navbar = () => {
   return (
-    <nav>
+    <nav className='above-nav'>
       <div className="logo">
         <img src="/path/to/your/logo.png" alt="Logo" />
       </div>
