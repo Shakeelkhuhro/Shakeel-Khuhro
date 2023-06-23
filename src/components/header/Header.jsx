@@ -3,11 +3,13 @@ import "./header.css";
 import CTA from "./CTA";
 import MyImage from "../../assets/me.png";
 import HeaderSocial from "./HeaderSocial";
-import {BsArrowRight} from 'react-icons/bs'
+import {BsArrowRight} from 'react-icons/bs';
+import Navbar from "../above nav/AboveNav";
 
 const Header = () => {
   return (
     <header>
+      <Navbar/>
       <div className="container header__container">
         <h5>Hello I'm</h5>
         <h1>Shakeel Khuhro</h1>
