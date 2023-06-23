@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Shakeel-Khuhro/static/css/main.d4ded856.css",
-    "main.js": "/Shakeel-Khuhro/static/js/main.f7534ea5.js",
+    "main.js": "/Shakeel-Khuhro/static/js/main.22b9319a.js",
     "static/media/3.JPG": "/Shakeel-Khuhro/static/media/3.1a9fadb15a24607aff62.JPG",
     "static/media/4.JPG": "/Shakeel-Khuhro/static/media/4.c363ae0095b49f32f5f5.JPG",
     "static/media/cv.pdf": "/Shakeel-Khuhro/static/media/cv.1676dcdc83730930d888.pdf",
@@ -21,10 +21,10 @@
     "static/media/me-about.jpeg": "/Shakeel-Khuhro/static/media/me-about.6048746703126bf2dac5.jpeg",
     "index.html": "/Shakeel-Khuhro/index.html",
     "main.d4ded856.css.map": "/Shakeel-Khuhro/static/css/main.d4ded856.css.map",
-    "main.f7534ea5.js.map": "/Shakeel-Khuhro/static/js/main.f7534ea5.js.map"
+    "main.22b9319a.js.map": "/Shakeel-Khuhro/static/js/main.22b9319a.js.map"
   },
   "entrypoints": [
     "static/css/main.d4ded856.css",
-    "static/js/main.f7534ea5.js"
+    "static/js/main.22b9319a.js"
   ]
 }
