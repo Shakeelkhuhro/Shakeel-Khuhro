@@ -7,11 +7,11 @@ import { RiServiceLine } from "react-icons/ri";
 import { TbMessage } from "react-icons/tb";
 
 const Nav = () => {
-  const [activeNav, setActiveNav] = useState("#");
+  const [activeNav, setActiveNav] = useState("#header");
 
   return (
     <nav>
-      <a href="/#" className={activeNav === "#" ? "active" : ""}>
+      <a href="#header" className={activeNav === "#header" ? "active" : ""}>
         <AiOutlineHome />
       </a>
       <a href="#about" onClick={() => setActiveNav('#about')} className={activeNav === "#about" ? "active" : ""}>

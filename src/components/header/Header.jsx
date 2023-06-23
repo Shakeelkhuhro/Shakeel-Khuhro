@@ -8,7 +8,7 @@ import Navbar from "../above nav/AboveNav";
 
 const Header = () => {
   return (
-    <header>
+    <header id="header">
       <Navbar/>
       <div className="container header__container">
         <h5>Hello I'm</h5>
