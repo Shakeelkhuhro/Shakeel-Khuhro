@@ -36,8 +36,20 @@ html {
 
 /* // remove default scroll bar */
 ::-webkit-scrollbar {
-    display: none;
+    /* display: none; */
 }
+::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; /* Set the background color of the scrollbar track */
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: var(--color-primary); 
+    padding: 12px;
+  }
 
 body {
     font-family: 'Poppins', sans-serif;
