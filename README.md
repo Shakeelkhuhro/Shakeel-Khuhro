@@ -116,7 +116,7 @@ Service for sending emails directly from JavaScript code.
 
 ## HTML:
 
-Markup language for structuring the web page.
+A markup language for structuring the web page.
 
 ## CSS:
 
@@ -128,7 +128,17 @@ Programming language for adding interactivity and functionality.
 
 # Contributing
 
-Contributions are highly appreciated! If i would like to contribute by suggesting improvements, fixing bugs, or adding new features, please adhere to the following guidelines:
+Contributions are highly appreciated! If I would like to contribute by suggesting improvements, fixing bugs, or adding new features, please adhere to the following guidelines:
+
+# Contributer
+1. Abdul Moiz Sheraz
+
+## Acknowledgments
+
+Special thanks to Abdul Moiz Sheraz for his valuable contributions to improving this project:
+
+- [@abdulmoizsheraz](https://github.com/abdulmoizsheraz):
+
 
 # Fork the repository.
 
