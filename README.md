@@ -130,6 +130,15 @@ Programming language for adding interactivity and functionality.
 
 Contributions are highly appreciated! If I would like to contribute by suggesting improvements, fixing bugs, or adding new features, please adhere to the following guidelines:
 
+# Fork the repository.
+
+1. Create a new branch.
+1. Implement my changes.
+1. Commit and push my changes to my forked repository.
+1. Submit a pull request.
+1. Please ensure that my contributions align with the project's coding conventions and maintain the existing code style.
+
+
 # Contributer
 1. Abdul Moiz Sheraz
 
@@ -139,14 +148,6 @@ Special thanks to Abdul Moiz Sheraz for his valuable contributions to improving 
 
 - [@abdulmoizsheraz](https://github.com/abdulmoizsheraz):
 
-
-# Fork the repository.
-
-1. Create a new branch.
-1. Implement my changes.
-1. Commit and push my changes to my forked repository.
-1. Submit a pull request.
-1. Please ensure that my contributions align with the project's coding conventions and maintain the existing code style.
 
 # Contact
 
