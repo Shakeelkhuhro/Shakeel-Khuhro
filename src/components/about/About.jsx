@@ -15,16 +15,8 @@ const About = () => {
       <h5>Get to Know</h5>
       <h2 className="sub-title">About Me</h2>
       <p className="about-text">
-        I am Shakeel Khuhro, a Front-End Developer specializing in JavaScript,
-        React, and Next.js. I am also a Microsoft Learn Student Ambassador and
-        the Marketing Manager at MLSA Muet Khairpur Mir's. Additionally, I am
-        the Co-Founder of Ritlop, a platform that showcases talented freelancers
-        and offers mentorship. Through open-source contributions and
-        participation in programs like GSSOC'23 and HacktoberFest, I collaborate
-        and make a positive impact on the developer community. I invite you to
-        explore my portfolio for examples of my Front-End projects, and I am
-        open to connecting for potential opportunities. Thank you for your
-        consideration.
+        Hello, I'm Shakeel Khuhro, a Cloud Engineer specializing in Azure and Google Cloud Platform (GCP), with additional expertise as a MERN Stack Developer specializing in Firebase. As a GOLD Student Ambassador and EMEA Regional Lead at Microsoft Learn, I am deeply involved in fostering learning and innovation within the tech community.
+                  I invite you to explore my portfolio, where you'll find examples of my Cloud and MERN projects. From designing scalable cloud architectures to crafting feature-rich web applications, my work reflects a dedication to excellence and innovation. I am open to connecting for potential opportunities and collaboration. Thank you for considering my profile.
       </p>
       <div className="container about-container">
         <div className="about-me">
@@ -42,6 +34,33 @@ const About = () => {
           >
             {activeTab === "skills" && (
               <ul>
+                <li>
+                  <span className="skills-span">Microsoft Azure</span>
+                  <div className="skill-line">
+                    <div
+                      className="skill-progress"
+                      style={{ width: "80%" }}
+                    ></div>
+                  </div>
+                </li>
+                <li>
+                  <span className="skills-span">Google Cloud Platform</span>
+                  <div className="skill-line">
+                    <div
+                      className="skill-progress"
+                      style={{ width: "75%" }}
+                    ></div>
+                  </div>
+                </li>
+                <li>
+                  <span className="skills-span">Networking</span>
+                  <div className="skill-line">
+                    <div
+                      className="skill-progress"
+                      style={{ width: "75%" }}
+                    ></div>
+                  </div>
+                </li>
                 <li>
                   <span className="skills-span">JavaScript</span>
                   <div className="skill-line">
