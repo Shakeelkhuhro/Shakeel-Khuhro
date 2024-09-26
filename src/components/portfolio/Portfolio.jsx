@@ -2,7 +2,7 @@ import React from "react";
 import "./portfolio.css";
 import IMG1 from "./portfolio1.PNG";
 import IMG2 from "./portfolio2.PNG";
-import IMG3 from "./portfolio3.PNG";
+import IMG3 from "./portfolio3.png";
 import IMG4 from "./portfolio4.PNG";
 import IMG5 from "./portfolio5.PNG";
 import IMG6 from "./portfolio6.PNG";
@@ -82,18 +82,15 @@ const Portfolio = () => {
           <div className="portfolio-item-image">
             <img src={IMG3} alt="" />
           </div>
-          <h3>Ritlop (Freelance website)</h3>
+          <h3>BugBlog (Blogging website)</h3>
           <p>
-            Ritlop is a Freelance website. It includes four main pages: Home,
-            About, Services, and Contact Us. The website is fully responsive and
-            optimized for various screen sizes, including desktops, tablets, and
-            mobile devices.
+            Bug Blog is a blogging web application built with the MERN stack, allowing users to create their own blogs, view and react to others' blogs, and share their thoughts with each other.
             <br/>
             <br/>
           </p>
           <div className="portfolio-item-cta">
             <a
-              href="https://github.com/Shakeelkhuhro/Ritlop"
+              href="https://github.com/Shakeelkhuhro/Bug-Blog"
               className="btn"
               target="_blank"
               rel="noreferrer"
@@ -101,7 +98,7 @@ const Portfolio = () => {
               GitHub
             </a>
             <a
-              href="https://shakeelkhuhro.github.io/Ritlop/"
+              href="https://bugblog.netlify.app"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
