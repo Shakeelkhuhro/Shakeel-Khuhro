@@ -17,7 +17,7 @@ const Community = () => {
   return (
     <section id="communities">
       <h5>My Community Work</h5>
-      <h2>As a Beta MLSA & Direcotor of Management at Zindigi Prize</h2>
+      <h2>As a Gold MLSA & EMEA Regional Lead</h2>
 
       <Swiper
         className="conatiner communities-container"
